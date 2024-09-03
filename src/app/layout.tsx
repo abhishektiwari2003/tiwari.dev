@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title,
     description,
-    creator: "@shahsagarm",
+    creator: "@abhi_shekT",
     images: "/images/open-graph-sagar.png",
   },
   icons: {
